@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="title_shop">News</string>
+    <string name="title_gifts">Language</string>
+    <string name="title_cart">Subscription</string>
+    <string name="title_profile">Profile</string>
+</resources>

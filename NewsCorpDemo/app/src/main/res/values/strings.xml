@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QA Photo Challenge</string>
+    <string name="activity_image_trans">image_transition</string>
+    <string name="activity_title_trans">title</string>
+    <string name="fullscreen_imageview">Fullscreen Image View</string>
+    <string name="error_loading_fullscreen_image">Error Loading Fullscreen Image</string>
+</resources>
